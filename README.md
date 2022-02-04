@@ -2,6 +2,9 @@
 
 App que realiza Conversión de Monedas implementado en Angular.
 
-## Development server
+# Configuración
+Ejecuta `ng serve` y navega en `http://localhost:4200/` para visualizar el proyecto.
 
-Ejecuta `ng serve` y navega a `http://localhost:4200/`. 
+## Vista Previa
+
+![Preview Angular Convertidor Monedas](src/assets/img/preview.jpg)
