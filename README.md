@@ -1,6 +1,6 @@
-# AngularConvertidorMonedas
+# Angular Convertidor Monedas
 
-App que realiza Conversión de Monedas implementado con Angular version 12.2.11.
+App que realiza Conversión de Monedas implementado en Angular.
 
 ## Development server
 
